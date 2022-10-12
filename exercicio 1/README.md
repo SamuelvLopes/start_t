@@ -14,4 +14,5 @@
  - C:\StartTOTVSIP\HMG.3.5\MINGW\bin
  - C:\StartTOTVSIP\HMG.3.5\HARBOUR\bin
  - ![image](https://user-images.githubusercontent.com/51290633/195445012-142d0c2c-1e07-45af-a66c-3a4e6e3a0b0e.png)
-### abra o cmd e execute "hbrun" e pronto. 
+### abra o cmd e execute "hbrun" se tudo funcionar significa que está tudo ok?
+# abra o vs code
