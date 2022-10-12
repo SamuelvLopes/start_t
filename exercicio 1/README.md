@@ -10,7 +10,8 @@
 - ![image](https://user-images.githubusercontent.com/51290633/195443094-2dc5849a-3bf4-4597-aff5-940a4102b37a.png)
 ## vá em avançado
 ## vá em variaveis de ambiente
-### adicione:
+### adicione ao path:
  - C:\StartTOTVSIP\HMG.3.5\MINGW\bin
  - C:\StartTOTVSIP\HMG.3.5\HARBOUR\bin
 
+![image](https://user-images.githubusercontent.com/51290633/195444557-c6575b98-f319-4f59-8f0e-2c1db8bec5da.png)
