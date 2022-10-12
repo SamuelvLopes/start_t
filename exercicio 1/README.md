@@ -13,7 +13,5 @@
 ### adicione ao path:
  - C:\StartTOTVSIP\HMG.3.5\MINGW\bin
  - C:\StartTOTVSIP\HMG.3.5\HARBOUR\bin
-
-![image](https://user-images.githubusercontent.com/51290633/195444557-c6575b98-f319-4f59-8f0e-2c1db8bec5da.png)
-
+![image](https://user-images.githubusercontent.com/51290633/195445012-142d0c2c-1e07-45af-a66c-3a4e6e3a0b0e.png)
 ### abra o cmd e execute "hbrun" e pronto. 
