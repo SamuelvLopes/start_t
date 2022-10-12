@@ -15,3 +15,5 @@
  - C:\StartTOTVSIP\HMG.3.5\HARBOUR\bin
 
 ![image](https://user-images.githubusercontent.com/51290633/195444557-c6575b98-f319-4f59-8f0e-2c1db8bec5da.png)
+
+### abra o cmd e execute "hbrun" e pronto. 
